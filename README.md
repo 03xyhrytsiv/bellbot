@@ -1,2 +1,2 @@
 # bellbot
-Viber Bot, which ois used for cafes or restaurants with food delivery.
+Viber Bot, which is used for cafes or restaurants with food delivery.
