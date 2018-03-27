@@ -1,0 +1,40 @@
+{
+    "Categories": {
+        "food": [
+            {
+                "description": "fast food",
+                "img": "NoImage",
+                "name": "chickenNagents",
+                "price": 50,
+                "subCategoryId": 902341,
+                "weight": 310
+            },
+            {
+                "description": "healthy food",
+                "img": "NoImage",
+                "name": "ceasar",
+                "price": 200,
+                "subCategoryId": 997243,
+                "weight": 340
+            }
+        ],
+        "drinks": [
+            {
+                "description": "sweet water",
+                "img": "NoImage",
+                "name": "cola",
+                "price": 15,
+                "subCategoryId": 782341,
+                "weight": 500
+            },
+            {
+                "description": "mineral water",
+                "img": "NoImage",
+                "name": "water",
+                "price": 12,
+                "subCategoryId": 997254,
+                "weight": 500
+            }
+        ]
+    }
+}
